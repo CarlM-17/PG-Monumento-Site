@@ -1,0 +1,12 @@
+{
+  "name": "puregold-monumento-guide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A shopper's guide to Puregold Monumento",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
